@@ -1,0 +1,42 @@
+.body{
+    background-color: #0a5cd6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.perfil-card{
+    width: 320px;
+    background-color: #1e293b;
+    color:#ffffff;
+    padding:30px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right:auto;
+    border:4px solid #7c3aed;
+}
+.foto-placeholder{
+    width: 60px;
+    height: 60px;
+    background-color: #7c3aed;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    padding-top: 15px;
+    height: 45px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.h1{
+    font-size: 26px;
+    color: #f8fafc;
+    margin: 0 0 5px 0;
+}
+.cargo{
+    font-size: 14px;
+    color:#a78bfa;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.bio{
+    font-size: 15px;
+    color:#cbd5e1;
+    line-height: 1.5;
+}
